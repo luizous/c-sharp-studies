@@ -1,2 +1,2 @@
-# c-sharp-studies
-C# studies.
+# Initial page
+
