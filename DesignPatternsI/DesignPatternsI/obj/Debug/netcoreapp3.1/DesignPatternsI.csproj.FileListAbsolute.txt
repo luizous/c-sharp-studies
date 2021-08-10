@@ -1,0 +1,13 @@
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.exe
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.deps.json
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.runtimeconfig.json
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.runtimeconfig.dev.json
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.dll
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\bin\Debug\netcoreapp3.1\DesignPatternsI.pdb
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.csprojAssemblyReference.cache
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.csproj.CoreCompileInputs.cache
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.AssemblyInfoInputs.cache
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.AssemblyInfo.cs
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.dll
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.pdb
+C:\Projetos\c-sharp-studies\DesignPatternsI\DesignPatternsI\obj\Debug\netcoreapp3.1\DesignPatternsI.genruntimeconfig.cache
