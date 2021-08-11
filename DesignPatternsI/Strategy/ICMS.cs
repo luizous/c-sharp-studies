@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DesignPatternsI
+namespace Strategy
 {
     public class ICMS : Tax
     {

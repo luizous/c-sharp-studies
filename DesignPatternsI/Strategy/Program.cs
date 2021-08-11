@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPatternsI
+namespace Strategy
 {
     class Program
     {
@@ -9,12 +9,13 @@ namespace DesignPatternsI
         {
             Tax iss = new ISS();
             Tax icms = new ICMS();
+            Tax iccc = new ICCC();
 
-            Budget budget = new Budget(500.0);
+            Budget budget = new Budget(3500.0);
 
             TaxCalculator calculator = new TaxCalculator();
 
-            calculator.PerformCalculation(budget, icms);
+            calculator.PerformCalculation(budget, iccc);
 
             Console.ReadKey();
         }

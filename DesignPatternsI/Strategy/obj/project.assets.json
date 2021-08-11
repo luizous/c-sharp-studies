@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\DesignPatternsI\\Strategy.csproj",
+      "projectUniqueName": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\DesignPatternsI\\Strategy.csproj",
+      "projectPath": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\radek\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\DesignPatternsI\\obj\\",
+      "outputPath": "C:\\Projetos\\c-sharp-studies\\DesignPatternsI\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -4,8 +4,7 @@ using System.Text;
 
 namespace Strategy
 {
-    public interface Tax
+    public class InvestmentMaker
     {
-        double Calculate(Budget budget);
     }
 }
